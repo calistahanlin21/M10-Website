@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "shinylive.html",
+    "href": "shinylive.html",
+    "title": "Essay on Shinylive",
+    "section": "",
+    "text": "What is Shinylive?\nShinylive allows Shiny apps to run entirely in a web browser without needing a server.\n\n\nDifference from Traditional Shiny\nTraditional Shiny: - Requires a server - Needs deployment (e.g., shinyapps.io)\nShinylive: - Runs in browser - No server required\n\n\nPros of Shinylive\n\nEasy to deploy\nNo hosting cost\nWorks offline\n\n\n\nCons of Shinylive\n\nLimited performance\nNot suitable for large apps\n\n\n\nConclusion\nShinylive is a lightweight and convenient alternative to traditional Shiny apps, especially for simple projects and learning purposes."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About This Website\nThis website was created as part of my data science learning journey using Quarto.\nThe purpose of this website is to showcase my understanding of: - Data visualization using dashboards - Interactive applications using Shiny - Web publishing using Quarto\nThrough this project, I learned how to organize content, create interactive visuals, and publish a professional-looking website.\nThis website demonstrates my ability to communicate data insights effectively to an audience."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "My Photo\n\n\n\n\n\n\n\n\nI aspire to build a career in data analytics and business intelligence, where I can use data to support decision-making and improve business performance.\n\n\n\n\nData Analysis (R, Excel)\nData Visualization (Quarto, ggplot2)\nMarketing Analytics\nProblem Solving\n\n\n\n\n\nCal Poly Pomona\nMajor: Business Administration and Management\n\n\n\n\n\nThis website showcases my learning in: - Quarto Dashboard - Shiny Apps - Shinylive"
+  },
+  {
+    "objectID": "index.html#calista-hanlin-gozali",
+    "href": "index.html#calista-hanlin-gozali",
+    "title": "Home",
+    "section": "",
+    "text": "My Photo"
+  },
+  {
+    "objectID": "index.html#career-aspiration",
+    "href": "index.html#career-aspiration",
+    "title": "Home",
+    "section": "",
+    "text": "I aspire to build a career in data analytics and business intelligence, where I can use data to support decision-making and improve business performance."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Home",
+    "section": "",
+    "text": "Data Analysis (R, Excel)\nData Visualization (Quarto, ggplot2)\nMarketing Analytics\nProblem Solving"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Home",
+    "section": "",
+    "text": "Cal Poly Pomona\nMajor: Business Administration and Management"
+  },
+  {
+    "objectID": "index.html#about-this-website",
+    "href": "index.html#about-this-website",
+    "title": "Home",
+    "section": "",
+    "text": "This website showcases my learning in: - Quarto Dashboard - Shiny Apps - Shinylive"
+  },
+  {
+    "objectID": "shiny-apps.html",
+    "href": "shiny-apps.html",
+    "title": "Essay on Shiny Apps",
+    "section": "",
+    "text": "What is a Shiny App?\nShiny is an R package that allows users to build interactive web applications directly from R. It enables real-time interaction between users and data.\n\n\nHow Shiny Works\nShiny apps have two main components: - UI (User Interface) - Server\nThe UI controls what users see, while the server processes inputs and generates outputs.\n\n\nExample Use Case\nFor example, a business can use a Shiny app to allow managers to explore sales data dynamically by selecting regions or time periods.\n\n\nWhy It Matters\nShiny apps help make data more accessible and interactive, especially for non-technical users."
+  }
+]
