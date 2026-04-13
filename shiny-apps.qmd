@@ -1,0 +1,23 @@
+---
+title: "Essay on Shiny Apps"
+---
+
+# What is a Shiny App?
+
+Shiny is an R package that allows users to build interactive web applications directly from R. It enables real-time interaction between users and data.
+
+# How Shiny Works
+
+Shiny apps have two main components:
+- UI (User Interface)
+- Server
+
+The UI controls what users see, while the server processes inputs and generates outputs.
+
+# Example Use Case
+
+For example, a business can use a Shiny app to allow managers to explore sales data dynamically by selecting regions or time periods.
+
+# Why It Matters
+
+Shiny apps help make data more accessible and interactive, especially for non-technical users.

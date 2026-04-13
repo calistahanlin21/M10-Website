@@ -1,0 +1,32 @@
+{
+    "id": "1208F7E8",
+    "path": "~/Rstudio/quarto/M10/M10/shinylive.qmd",
+    "project_path": "shinylive.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1776033598962.0,
+    "source_on_save": true,
+    "relative_order": 5,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "29,134",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "2:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1776035741,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1776035741099,
+    "read_only": false,
+    "read_only_alternatives": []
+}

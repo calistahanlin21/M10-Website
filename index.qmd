@@ -1,0 +1,32 @@
+---
+title: "Home"
+---
+
+# Welcome to My Website
+
+## Calista Hanlin Gozali
+
+![My Photo](profile.jpeg){width=300px}
+
+## About Me
+## Career Aspiration
+
+I aspire to build a career in data analytics and business intelligence, where I can use data to support decision-making and improve business performance.
+
+## Skills
+
+-   Data Analysis (R, Excel)
+-   Data Visualization (Quarto, ggplot2)
+-   Marketing Analytics
+-   Problem Solving
+
+## Education
+
+-   Cal Poly Pomona
+-   Major: Business Administration and Management
+
+------------------------------------------------------------------------
+
+## About This Website
+
+This website showcases my learning in: - Quarto Dashboard - Shiny Apps - Shinylive

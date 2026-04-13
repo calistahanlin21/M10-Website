@@ -1,0 +1,16 @@
+---
+title: "About"
+---
+
+# About This Website
+
+This website was created as part of my data science learning journey using Quarto.
+
+The purpose of this website is to showcase my understanding of:
+- Data visualization using dashboards
+- Interactive applications using Shiny
+- Web publishing using Quarto
+
+Through this project, I learned how to organize content, create interactive visuals, and publish a professional-looking website.
+
+This website demonstrates my ability to communicate data insights effectively to an audience.

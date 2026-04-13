@@ -1,0 +1,5 @@
+"0","library(ggplot2)"
+"0",""
+"0","ggplot(mtcars, aes(x = mpg, y = hp)) +"
+"0","  geom_point() +"
+"0","  labs(title = ""MPG vs Horsepower"")"
